@@ -1,0 +1,23 @@
+.form {
+  border: 1px solid gray;
+  border-radius: 4px;
+  margin-top: 5%;
+  width: 50%;
+  margin-left: 25%;
+  padding: 8px;
+}
+.input {
+  width: 98%;
+  padding: 4px;
+  margin: 4px;
+  font-size: 16px;
+}
+.label {
+  margin-left: 4px;
+  font-weight: bold;
+  padding: 4px;
+  font-size: 17px;
+  text-align: left;
+  justify-items: left;
+  justify-content: left;
+}

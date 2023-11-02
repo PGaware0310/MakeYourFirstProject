@@ -1,0 +1,15 @@
+.ul{
+    list-style: none;
+    margin-left: 25%;
+    padding-top: 3%;
+    width: 50%;
+    border-radius: 4px;
+    border: 1px solid gray;
+    justify-content: center;
+}
+.li{
+    list-style: none;
+    /* padding-top: 1%; */
+    padding-bottom: 4%;
+    font-weight: bold;
+    }
